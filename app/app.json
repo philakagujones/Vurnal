@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sixpack",
-    "slug": "sixpack",
+    "name": "Vurnal",
+    "slug": "Vurnal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.wicombit.sixpack"
+      "package": "com.vurnal.vurnal"
     },
     "web": {
       "favicon": "./assets/favicon.png"

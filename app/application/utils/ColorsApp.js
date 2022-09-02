@@ -3,8 +3,8 @@
 
 const ColorsApp = {
 
-    PRIMARY: "#2472d4",
-    SECOND: "#2472d4",
+    PRIMARY: "#6d8a6e",
+    SECOND: "#6d8a6e",
     TERTIARY: "#3c3c3c",
 
 };
